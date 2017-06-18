@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_trangChu"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Trang Chủ" />
+        <item
+            android:id="@+id/nav_dangKyBieuMau"
+            android:icon="@drawable/ic_border_color_black_24dp"
+            android:title="Đăng Ký Biểu Mẫu" />
+        <item
+            android:id="@+id/nav_lop"
+            android:icon="@drawable/ic_class_black_24dp"
+            android:title="Danh sách lớp" />
+        <item
+            android:id="@+id/nav_caNhan"
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:title="Cá Nhân" />
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="Thoát" />
+
+    </group>
+
+
+</menu>
